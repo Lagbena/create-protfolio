@@ -10,7 +10,7 @@
 .menus ul{
     display:flex;
     list-style: none;
-    font-size: 20px;
+    font-size: 17px;
     gap: 15px;
 }
 .banner-container{
@@ -25,6 +25,23 @@
     text-align: center;
 
 }
-.banner-info{
-   
+.primary{color:red;}
+.title{
+    font-size: 55px;
+    color: white;
+    font-weight: bold;
+}
+.description{
+    color: white;
+    padding: 10px;
+    width: 50%;
+    margin: auto;
+}
+.btn{
+    padding: 12px 20px;
+    border: none;
+}
+.bg-color{
+    background-color: red;
+    color: white;
 }
